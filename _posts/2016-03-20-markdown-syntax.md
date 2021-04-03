@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "지구과학"
-date:   2016-03-15
-excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
+date:   2020-20-20
+excerpt: "지구과학 외우기 겁나 힘들다"
 tag:
 - markdown 
 - syntax
@@ -12,7 +12,7 @@ tag:
 comments: true
 ---
 
-## HTML Elements
+## 지구과학
 
 대륙이동설 -> 맨틀대류설 -> 해양저 확장성 -> 판 구조론
 
@@ -27,4 +27,5 @@ comments: true
 멘틀 내의 방사성 원소의 붕괴열과 지구 중심부에서 올라아ㅗ는 열로 멘틀 상부와 하부의 온도 차이가 생기고 , 그 때문에 열대류가 일어나 대륙이 대류를 따라 이동한다는 가설
 # 해양 측심법
 1/2t*v
-
+# 해저지형
+※해구, 해령
