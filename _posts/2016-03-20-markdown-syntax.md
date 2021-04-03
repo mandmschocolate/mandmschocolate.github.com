@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "지구과학"
+title:  "markdown"
 date:   2020-20-20
-excerpt: "지구과학 외우기 겁나 힘들다"
+excerpt: "nothing"
 tag:
 - markdown 
 - syntax
