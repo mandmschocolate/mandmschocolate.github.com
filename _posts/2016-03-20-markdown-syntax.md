@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "markdown"
-date:   2016-03-20
-excerpt: ""
+title:  "Markdown Syntax"
+date:   2016-03-15
+excerpt: "Just about everything you'll need to style in the theme: headings, paragraphs, blockquotes, tables, code blocks, and more."
 tag:
 - markdown 
 - syntax
@@ -11,6 +11,8 @@ tag:
 - jekyll
 comments: true
 ---
+
+## HTML Elements
 
 Below is just about everything you'll need to style in the theme. Check the source code to see the many embedded elements within paragraphs.
 
