@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "markdown"
-date:   2020-20-20
-excerpt: "nothing"
+date:   2016-03-20
+excerpt: ""
 tag:
 - markdown 
 - syntax
